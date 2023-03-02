@@ -15,3 +15,25 @@ h1 {
   color: rgba(0, 0, 255, 0.5);
   text-align: center;
 }
+.btn-block {
+  padding: 10px;
+  background-color: rgba(128, 128, 128, 0.9);
+  margin-top: 10px;
+}
+.blue {
+  background-color: rgba(0, 0, 255, 0.986);
+}
+.red {
+  background-color: rgba(255, 0, 0, 0.9);
+}
+.green {
+  background-color: rgba(0, 128, 0, 0.9);
+}
+button {
+  background-color: rgba(255, 255, 0, 0.9);
+  margin-bottom: 10px;
+  margin-top: 10px;
+  width: 100px;
+  height: 40px;
+  cursor: pointer;
+}
